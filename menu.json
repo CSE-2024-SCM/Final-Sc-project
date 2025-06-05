@@ -34,5 +34,9 @@
     "price": 120,
     "region": "Tamil Nadu"
   },
-  (c)
+  {
+    "name": "Kobbari Annam",
+    "price": 110,
+    "region": "Andhra Pradesh"
+  }
 ]
