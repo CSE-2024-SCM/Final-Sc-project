@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Chettinad Chicken",
+    "price": 150,
+    "region": "Tamil Nadu"
+  },
+  {
+    "name": "Kerala Sadya",
+    "price": 180,
+    "region": "Kerala"
+  },
+  (s) ,
+ (n),
+  {
+    "name": "Andhra Gunttivankaya",
+    "price": 150,
+    "region": "Andhra Pradesh"
+  },
+  (c),
+  
+  {
+    "name": "Kozhi Varutharachathu",
+    "price": 170,
+    "region": "Kerala"
+  },
+(c)
+
+  {
+    "name": "Appam",
+    "price": 120,
+    "region": "Tamil Nadu"
+  },
+  (c)
+]
