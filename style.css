@@ -47,7 +47,13 @@ h1, h2, h3 {
   text-align: left;
 }
 
-(c)
+.menu-item button {
+  background: #4CAF50;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
 
 .menu-item button:hover {
   background: #45a049;
