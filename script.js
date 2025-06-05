@@ -19,6 +19,15 @@ async function loadMenu() {
 
 (C)
 
+function updateCart() {
+  const cartContainer = document.getElementById('cart-items');
+  if (cart.length === 0) {
+    cartContainer.innerHTML = 'Your cart is empty.';
+  } else {
+    cartContainer.innerHTML = cart.map(item => `
+      <div>${item.name} - ₹${item.price}</div>
+    `).join('');
+  }
+}
 
-(s)
 document.addEventListener('DOMContentLoaded', loadMenu);
