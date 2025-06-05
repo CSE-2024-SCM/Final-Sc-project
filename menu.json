@@ -23,7 +23,11 @@
     "price": 170,
     "region": "Kerala"
   },
-(c)
+  {
+    "name": "Hyderabadi Biryani",
+    "price": 200,
+    "region": "Telangana"
+  },
 
   {
     "name": "Appam",
