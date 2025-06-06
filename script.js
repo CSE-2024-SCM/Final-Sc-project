@@ -17,7 +17,10 @@ async function loadMenu() {
   }
 }
 
-(C)
+function addToCart(name, price) {
+  cart.push({ name, price });
+  updateCart();
+}
 
 function updateCart() {
   const cartContainer = document.getElementById('cart-items');
