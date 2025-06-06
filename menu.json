@@ -24,7 +24,11 @@
     "price": 150,
     "region": "Andhra Pradesh"
   },
-  (c),
+  {
+    "name": "Mysore Masala Dosa",
+    "price": 120,
+    "region": "Karnataka"
+  },
   
   {
     "name": "Kozhi Varutharachathu",
