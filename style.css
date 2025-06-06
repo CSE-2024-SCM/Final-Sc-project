@@ -1,3 +1,4 @@
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -69,7 +70,13 @@ h1, h2, h3 {
   border: 1px solid #ddd;
 }
 
-(n)
+.login-form button, .review-form button {
+  background: #4CAF50;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
 
 .login-form button:hover, .review-form button:hover {
   background: #45a049;
