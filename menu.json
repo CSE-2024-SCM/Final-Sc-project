@@ -9,8 +9,16 @@
     "price": 180,
     "region": "Kerala"
   },
-  (s) ,
- (n),
+  {
+    "name": "Ragi Mudde",
+    "price": 100,
+    "region": "Karnataka"
+  },
+ {
+    "name": "Andhra Pappu",
+    "price": 150,
+    "region": "Andhra Pradesh"
+  },
   {
     "name": "Andhra Gunttivankaya",
     "price": 150,
