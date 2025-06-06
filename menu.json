@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Chettinad Chicken",
+    "price": 150,
+    "region": "Tamil Nadu"
+  },
+  {
+    "name": "Kerala Sadya",
+    "price": 180,
+    "region": "Kerala"
+  },
+  {
+    "name": "Ragi Mudde",
+    "price": 100,
+    "region": "Karnataka"
+  },
+ {
+    "name": "Andhra Pappu",
+    "price": 150,
+    "region": "Andhra Pradesh"
+  },
+  {
+    "name": "Andhra Gunttivankaya",
+    "price": 150,
+    "region": "Andhra Pradesh"
+  },
+  {
+    "name": "Mysore Masala Dosa",
+    "price": 120,
+    "region": "Karnataka"
+  },
+  
+  {
+    "name": "Kozhi Varutharachathu",
+    "price": 170,
+    "region": "Kerala"
+  },
+  {
+    "name": "Hyderabadi Biryani",
+    "price": 200,
+    "region": "Telangana"
+  },
+
+  {
+    "name": "Appam",
+    "price": 120,
+    "region": "Tamil Nadu"
+  },
+  {
+    "name": "Kobbari Annam",
+    "price": 110,
+    "region": "Andhra Pradesh"
+  }
+]
