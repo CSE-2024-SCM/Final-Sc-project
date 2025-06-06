@@ -32,7 +32,10 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 
-(s)
+section {
+  padding: 2rem;
+  text-align: center;
+}
 
 h1, h2, h3 {
   color: #333;
